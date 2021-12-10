@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Resources","items":[{"title":"Welcome Outreachy interns","permalink":"/resources/2021-11-23-welcome-outreachy-interns"}]}')}}]);
